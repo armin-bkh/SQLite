@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idCourseName" type="id" />
+    <item name="CourseTracks" type="id" />
+    <item name="idCourseDuration" type="id" />
+    <item name="idCourseDescription" type="id" />
+    <item name="idBtnCourse" type="id" />
+</resources>
